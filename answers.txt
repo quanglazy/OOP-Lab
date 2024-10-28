@@ -1,0 +1,1 @@
+Java vẫn cho phép người dùng tạo nhiều constructor trong một lớp, điều này được gọi là nạp chồng constructor (constructor overloading). Chúng ta có thể định nghĩa nhiều constructor với các danh sách tham số khác nhau trong cùng một lớp. Mỗi constructor có thể thực hiện các tác vụ khác nhau.
